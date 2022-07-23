@@ -1,5 +1,7 @@
 [
     "CHALLENGEFIXin",
+    "MARINEFORD",
+    "DATAFIX",
     "GINYUFIX",
     "RELEASE",
     "SubToKelvingts",
