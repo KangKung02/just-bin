@@ -1,6 +1,18 @@
-{
-    "Planet Namak": "namek",
-    "Shiganshinu District": "aot",
-    "Snowy Town": "demonslayer",
-    "Hidden Sand Village": "naruto"
-}
+[
+    {
+        "FullName": "Planet Namak",
+        "RealName": "namek"
+    },
+    {
+        "FullName": "Shiganshinu District",
+        "RealName": "aot"
+    },
+    {
+        "FullName": "Snowy Town",
+        "RealName": "demonslayer"
+    },
+    {
+        "FullName": "Hidden Sand Village",
+        "RealName": "naruto"
+    }
+]
