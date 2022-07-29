@@ -1,4 +1,6 @@
 [
+    "FIRSTRAIDS",
+    "DATAFIX",
     "MARINEFORD",
     "TWOMILLION",
     "subtomaokuma",
