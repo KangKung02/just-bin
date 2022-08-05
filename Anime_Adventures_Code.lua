@@ -1,4 +1,5 @@
 [
+    "GHOUL",
     "FIRSTRAIDS",
     "DATAFIX",
     "MARINEFORD",
