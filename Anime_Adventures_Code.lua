@@ -1,4 +1,5 @@
 [
+    "MUGENTRAIN",
     "GHOUL",
     "FIRSTRAIDS",
     "DATAFIX",
