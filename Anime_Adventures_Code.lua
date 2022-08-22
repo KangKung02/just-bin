@@ -1,4 +1,6 @@
 [
+    "QUESTFIX",
+    "HOLLOW",
     "MUGENTRAIN",
     "GHOUL",
     "FIRSTRAIDS",
