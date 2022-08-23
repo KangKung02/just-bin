@@ -1,22 +1,12 @@
 [
     "QUESTFIX",
     "HOLLOW",
-    "MUGENTRAIN",
-    "GHOUL",
-    "FIRSTRAIDS",
-    "DATAFIX",
-    "MARINEFORD",
-    "TWOMILLION",
     "subtomaokuma",
-    "SORRYFORSHUTDOWN",
-    "CHALLENGEFIXin",
-    "GINYUFIX",
-    "RELEASE",
     "SubToKelvingts",
-    "SubToBlamspot",
-    "KingLuffy",
     "TOADBOIGAMING",
+    "KingLuffy",
+    "subtosnowrbx",
     "noclypso",
-    "FictioNTheFirst",
-    "Cursed"
+    "SubToBlamspot",
+    "Cxrsed"
 ]
