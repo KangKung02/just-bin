@@ -1,4 +1,5 @@
 [
+    "Hunter",
     "QUESTFIX",
     "HOLLOW",
     "subtomaokuma",
