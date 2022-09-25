@@ -9,5 +9,6 @@
     "subtosnowrbx",
     "noclypso",
     "SubToBlamspot",
-    "Cxrsed"
+    "Cxrsed",
+    "FAIRY2"
 ]
