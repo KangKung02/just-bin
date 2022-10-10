@@ -1,5 +1,5 @@
 local function GetPosition(site, special_site)
-    return { ["site"] = site };
+    return { ["site"] = site, ["special_site"] = special_site };
 end
 
 local Content;
