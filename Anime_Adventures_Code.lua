@@ -1,4 +1,5 @@
 [
+    "HALLOWEEN",
     "CURSE2",
     "SorryForShutdown2",
     "CURSE",
