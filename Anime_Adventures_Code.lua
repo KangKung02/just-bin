@@ -1,4 +1,6 @@
 [
+    "CLOVER",
+    "CLOVER2",
     "HALLOWEEN",
     "CURSE2",
     "SorryForShutdown2",
