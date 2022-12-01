@@ -1,4 +1,5 @@
 [
+    "KARAKORA",
     "CLOVER",
     "CLOVER2",
     "HALLOWEEN",
