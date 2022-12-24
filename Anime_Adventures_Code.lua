@@ -1,4 +1,6 @@
 [
+    "KARAKORA2",
+    "GRAVITY",
     "KARAKORA",
     "CLOVER",
     "CLOVER2",
