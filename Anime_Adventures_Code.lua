@@ -1,4 +1,6 @@
 [
+    "CHRISTMAS2022",
+    "PORTALFIX",
     "KARAKORA2",
     "GRAVITY",
     "KARAKORA",
