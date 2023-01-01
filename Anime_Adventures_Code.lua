@@ -1,4 +1,5 @@
 [
+    "DAILYFIX",
     "CHRISTMAS2022",
     "PORTALFIX",
     "KARAKORA2",
