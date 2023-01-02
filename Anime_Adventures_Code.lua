@@ -1,4 +1,5 @@
 [
+    "NEWYEAR2023",
     "DAILYFIX",
     "CHRISTMAS2022",
     "PORTALFIX",
