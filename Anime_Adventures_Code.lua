@@ -1,4 +1,5 @@
 [
+    "HERO",
     "CHAINSAW",
     "NEWYEAR2023",
     "DAILYFIX",
