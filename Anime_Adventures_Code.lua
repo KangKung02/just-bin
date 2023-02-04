@@ -1,4 +1,5 @@
 [
+    "CLOUD",
     "HERO",
     "CHAINSAW",
     "NEWYEAR2023",
