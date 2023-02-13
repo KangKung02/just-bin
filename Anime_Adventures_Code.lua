@@ -1,4 +1,5 @@
 [
+    "UCHIHA",
     "CLOUD",
     "HERO",
     "CHAINSAW",
