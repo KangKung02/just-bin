@@ -1,4 +1,5 @@
 [
+    "SINS",
     "UCHIHA",
     "CLOUD",
     "HERO",
