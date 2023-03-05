@@ -1,4 +1,5 @@
 [
+    "SINS2",
     "SINS",
     "UCHIHA",
     "CLOUD",
