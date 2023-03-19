@@ -1,4 +1,6 @@
 [
+    "GOLDEN",
+    "GOLDENSHUTDOWN",
     "SINS2",
     "SINS",
     "UCHIHA",
