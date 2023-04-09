@@ -1,4 +1,5 @@
 [
+    "HAPPYEASTER",
     "GOLDEN",
     "GOLDENSHUTDOWN",
     "SINS2",
