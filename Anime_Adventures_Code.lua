@@ -1,4 +1,6 @@
 [
+    "ENTERTAINMENT",
+    "VIGILANTE",
     "HAPPYEASTER",
     "GOLDEN",
     "GOLDENSHUTDOWN",
