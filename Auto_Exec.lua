@@ -9,4 +9,4 @@ queue_on_teleport(string.format([[
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Natsuhanaki/Royx_PC/main/loader.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KangKung02/just-bin/main/Auto_Exec.lua"))()
-print("Executed!")
+print("Executed!");
