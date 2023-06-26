@@ -1,4 +1,6 @@
 [
+    "BILLION",
+    "MADOKA"
     "ENTERTAINMENT",
     "VIGILANTE",
     "HAPPYEASTER",
@@ -8,6 +10,7 @@
     "SINS",
     "UCHIHA",
     "CLOUD",
+    "DRESSROSA",
     "HERO",
     "CHAINSAW",
     "NEWYEAR2023",
