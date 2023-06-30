@@ -1,4 +1,5 @@
 [
+    "TOURNAMENTUIFIX",
     "BILLION",
     "MADOKA"
     "ENTERTAINMENT",
