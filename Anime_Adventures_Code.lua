@@ -1,7 +1,8 @@
 [
+    "ANNIVERSARY",
     "TOURNAMENTUIFIX",
     "BILLION",
-    "MADOKA"
+    "MADOKA",
     "ENTERTAINMENT",
     "VIGILANTE",
     "HAPPYEASTER",
