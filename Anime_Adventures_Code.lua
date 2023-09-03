@@ -1,4 +1,7 @@
 [
+    "SUMMER2023",
+    "OVERLORD",
+    "NEWCODE0819",
     "ANNIVERSARY",
     "TOURNAMENTUIFIX",
     "BILLION",
