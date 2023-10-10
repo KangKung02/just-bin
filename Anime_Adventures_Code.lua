@@ -1,4 +1,6 @@
 [
+    "REASON2FIGHT",
+    "HOLYGRAIL",
     "SUMMER2023",
     "OVERLORD",
     "NEWCODE0819",
