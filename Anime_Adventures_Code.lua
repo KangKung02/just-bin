@@ -1,4 +1,7 @@
 [
+    "AMEGAKURE",
+    "SIXPATHSUPD",
+    "HAPPYHALLOWEEN",
     "REASON2FIGHT",
     "HOLYGRAIL",
     "SUMMER2023",
